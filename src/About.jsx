@@ -1,3 +1,4 @@
+// import ReactPlayer from "react-player/lazy";
 export function About() {
   return (
     <div>
